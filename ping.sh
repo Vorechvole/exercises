@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Zadej kam chceš pingnout"
+echo "Zadej kam  chceš pingnout"
 read PING
 
 echo "Ping...."
